@@ -1,4 +1,4 @@
-### Hi there ! I am Adeyinka Oluwaseun 👋
+### Hi there ! I am Adeyinka Oluwaseun 👋 You can check out my blog on https://www.adeyinkaseun.com
 
 <!--
 **codemasta/codemasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
