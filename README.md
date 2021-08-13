@@ -1,4 +1,4 @@
-### Hi there ! I am Adeyinka Oluwaseun 👋 You can check out my blog at https://www.adeyinkaseun.com
+### Hi there 👋
 
 <!--
 **codemasta/codemasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 👨‍💻  I have more than 5 years of experience as a Software Engineer, currently studying Master's in Information Engineering & Computer Science in Rhein-Waal University , Germany. I enjoy working with Microsoft .NET technologies, Python & JS.
+
+
+- 👯 Always open to collaborate ✊
+
+
+- 📫 How to reach me: | <a href="https://www.linkedin.com/in/adeyinkaoluwaseun/">LinkedIn</a> | <a href="mailto:seun.adeyinka@gmail.com">seun.adeyinka@gmail.com</a> | <a href="https://twitter.com/Mr_Codemasta">@Mr_Codemasta</a>
+
+
+
+<a href="https://github.com/codemasta/codemasta">
+	<img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=codemasta&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" /></a>
+<a href="https://github.com/codemasta/codemasta"><img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemasta&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" /></a>
+
+<p></p>
+<p></p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=codemasta)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/codemasta/codemasta/graphs/commit-activity)
+[![GitHub forks](https://img.shields.io/github/forks/codemasta/codemasta.svg)](https://github.com/codemasta/codemasta/network)
+[![GitHub issues](https://img.shields.io/github/issues/codemasta/codemasta.svg)](https://github.com/codemasta/codemasta/issues)
+[![GitHub license](https://img.shields.io/github/license/codemasta/codemasta.svg)](https://github.com/codemasta/codemasta/blob/main/LICENSE)
+[![Only 32 Kb](https://badge-size.herokuapp.com/codemasta/codemasta/main/README.md)](https://github.com/codemasta/codemasta/blob/main/README.md)
+[![GitHub stars](https://img.shields.io/github/stars/codemasta/codemasta.svg?style=flat&label=Star&maxAge=2592000)](https://github.com/codemasta/codemasta/stargazers/)
+
