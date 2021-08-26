@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hey 👋, I'm Oluwaseun Adeyinka
+
+[![](https://vistr.dev/badge?repo=codemasta.codemasta&corners=square)](https://github.com/codemasta/vistr.dev)
+[![](https://img.shields.io/badge/-@Mr_Codemasta-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Mr_Codemasta)
+[![](https://img.shields.io/badge/-@codemasta-%23181717?style=flat-square&logo=github)](https://github.com/codemasta)
+[![](https://img.shields.io/badge/-Oluwaseun%20Adeyinka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeyinkaoluwaseun/)](https://www.linkedin.com/in/adeyinkaoluwaseun/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=adeyinkaseun.com&url=https%3A%2F%2Fadeyinkaseun.com)](https://adeyinkaseun.com)
 
 <!--
 **codemasta/codemasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
