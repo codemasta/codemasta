@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 👨‍💻  I have more than 5 years of experience as a Software Engineer, currently working as a Software Engineer in **trivago** düsseldorf , Germany. I enjoy working with Microsoft .NET technologies, Python & JS.
+ 👨‍💻  I have more than 7 years of experience as a Software Engineer, currently working as a Software Engineer in **trivago** düsseldorf , Germany. I enjoy working with Microsoft .NET technologies, Python & JS.
 
 
 - 👯 Always open to collaborate ✊
