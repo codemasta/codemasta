@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: | <a href="https://www.linkedin.com/in/adeyinkaoluwaseun/">LinkedIn</a> | <a href="mailto:seun.adeyinka@gmail.com">seun.adeyinka@gmail.com</a> | <a href="https://twitter.com/Mr_Codemasta">@Mr_Codemasta</a>
 
 <p></p>
-[![Github](https://img.shields.io/github/followers/codemasta?label=Follow&style=social)](https://github.com/codemasta)
+![Github](https://img.shields.io/github/followers/codemasta?label=Follow&style=social)](https://github.com/codemasta)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codemasta&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codemasta&theme=github)
