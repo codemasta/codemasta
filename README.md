@@ -38,11 +38,4 @@ Here are some ideas to get you started:
 <p></p>
 <p></p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=codemasta)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/codemasta/codemasta/graphs/commit-activity)
-[![GitHub forks](https://img.shields.io/github/forks/codemasta/codemasta.svg)](https://github.com/codemasta/codemasta/network)
-[![GitHub issues](https://img.shields.io/github/issues/codemasta/codemasta.svg)](https://github.com/codemasta/codemasta/issues)
-[![GitHub license](https://img.shields.io/github/license/codemasta/codemasta.svg)](https://github.com/codemasta/codemasta/blob/main/LICENSE)
-[![Only 32 Kb](https://badge-size.herokuapp.com/codemasta/codemasta/main/README.md)](https://github.com/codemasta/codemasta/blob/main/README.md)
-[![GitHub stars](https://img.shields.io/github/stars/codemasta/codemasta.svg?style=flat&label=Star&maxAge=2592000)](https://github.com/codemasta/codemasta/stargazers/)
 
