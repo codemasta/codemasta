@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/codemasta/codemasta"><img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemasta&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" /></a>
 
 <p></p>
-<p></p>
-
-### Hey 👋, I'm Compiler
-
 [![Github](https://img.shields.io/github/followers/codemasta?label=Follow&style=social)](https://github.com/codemasta)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codemasta&theme=github)
