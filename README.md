@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## <center>Senior Software Engineer & Tech Lead</center>
+
  👨‍💻  I have more than 8 years of experience as a Software Engineer, currently working as a Software Engineer in **trivago** Düsseldorf , Germany.  
 
 ### 💬 What I do
