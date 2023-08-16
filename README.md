@@ -1,11 +1,4 @@
-### Hey 👋, I'm Oluwaseun Adeyinka
-
-[![](https://vistr.dev/badge?repo=codemasta.codemasta&corners=square)](https://github.com/codemasta/vistr.dev)
-[![](https://img.shields.io/badge/-@Mr_Codemasta-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Mr_Codemasta)
-[![](https://img.shields.io/badge/-@codemasta-%23181717?style=flat-square&logo=github)](https://github.com/codemasta)
-[![](https://img.shields.io/badge/-Oluwaseun%20Adeyinka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeyinkaoluwaseun/)](https://www.linkedin.com/in/adeyinkaoluwaseun/)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=adeyinkaseun.com&url=https%3A%2F%2Fadeyinkaseun.com)](https://seunadeyinka.com)
-
+### Hi 👋, I'm Oluwaseun Adeyinka
 <!--
 **codemasta/codemasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,14 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 👨‍💻  I have more than 8 years of experience as a Software Engineer, currently working as a Software Engineer in **trivago** düsseldorf , Germany.  I enjoy working with Microsoft .NET technologies, Python & JS.
+ 👨‍💻  I have more than 8 years of experience as a Software Engineer, currently working as a Software Engineer in **trivago** düsseldorf , Germany.  
 
+### 💬 What I do
+
+My main languages are: 
+- C#
+- Python 3
+- Javascript 
+
+I have used these to successfully scale applications to millions of concurrent users.
+
+I am addicted to learning and trying out new stuffs. 
+
+🌱 At the moment, I am very interested in K8.
 
 - 👯 Always open to collaborate ✊
 
 
 - 📫 How to reach me: | <a href="https://www.linkedin.com/in/adeyinkaoluwaseun/">LinkedIn</a> | <a href="mailto:seun.adeyinka@gmail.com">seun.adeyinka@gmail.com</a> | <a href="https://twitter.com/Mr_Codemasta">@Mr_Codemasta</a>
-
 <p></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codemasta&theme=github)
