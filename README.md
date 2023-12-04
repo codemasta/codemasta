@@ -29,7 +29,7 @@ I have used these to successfully scale applications to millions of concurrent u
 
 I am addicted to learning and trying out new stuffs. 
 
-🌱 At the moment, I am very interested in K8.
+🌱 At the moment, I am very interested in K8 and AI.
 
 - 👯 Always open to collaborate ✊
 
